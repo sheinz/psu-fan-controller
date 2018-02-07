@@ -1,0 +1,3 @@
+[submodule "cmake-avr"]
+	path = cmake-avr
+	url = https://github.com/mkleemann/cmake-avr.git
